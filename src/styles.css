@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+@import './styles/tester.css';
+
+html, body { 
+ height: 100%; 
+ margin: 0; 
+ padding: 0;
+ line-height: 1.5;
+ font-size: 16px;
+ color: #333;
+ font-family: Roboto, "Helvetica Neue", sans-serif; 
+}
